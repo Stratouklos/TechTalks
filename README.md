@@ -2,11 +2,9 @@
 
 | Talk |Speaker(s)|
 |------|----------|
-|[Challenges in Implementing Microservices ](https://www.youtube.com/watch?v=yPf5MfOZPY0)|Fred George|
 |[DevOps Kaizen Practical Steps to Start & Sustain a Transformation](https://www.youtube.com/watch?v=RT542sffJpM)|Damon Edwards|
 |[Learning and Perverse Incentives: The Evil Hat](http://www.infoq.com/presentations/Learning-and-Perverse-Incentives)|Liz Keogh|
 |[Achieving Business Impact: Why Agile Doesn’t Scale](https://www.youtube.com/watch?v=1CmCgwd54oc)|Dan North|
-|[Exercises in Programming Style ](http://www.infoq.com/presentations/programming-styles)|Crista Lopes|
 |[Is TDD dead? Part I](https://www.youtube.com/watch?v=z9quxZsLcfo)[Is TDD dead? [Part II]](https://www.youtube.com/watch?v=JoTB2mcjU7w) [Is TDD dead? [Part III]](https://www.youtube.com/watch?v=YNw4baDz6WA)|David Heinemeier Hansson Martin Fowler Kent Beck|
 |[1000 Year-old Design Patterns ](http://www.infoq.com/presentations/1000-Year-old-Design-Patterns)|Ulf Wiger|
 |[Programming is terrible -](https://www.youtube.com/watch?v=csyL9EC0S0c) [slides](https://github.com/tef/emfcamp2012)|Thomas Figg|
@@ -35,7 +33,6 @@
 |[Agile is not Enough: Revolution Over Transformation](http://www.infoq.com/presentations/agile-change-mindset)|Todd Charron|
 |[The Power of an Agile Mindset](http://www.infoq.com/presentations/agile-mindset)|Linda Rising|
 |[The Birth and Death of Javascript ](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)|Gary Bernhardt|
-|[DDD & Microservices: At Last, Some Boundaries!](https://www.youtube.com/watch?v=yPvef9R3k-M)|Eric Evans|
 |["Big Data" Agile Analytics](http://www.infoq.com/presentations/big-data-agile-analytics)|Ken Collier|
 |[Big data is better data](https://www.youtube.com/watch?v=8pHzROP1D-w)|Kenneth Cukier|
 |[Ultimate Scala Collections](https://www.youtube.com/watch?v=yzfCTNukfl8)|Martin Odersky|
@@ -45,6 +42,10 @@
 |[Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8)|Jérôme Petazzoni|
 |[Docker Networking Deep Dive](https://www.youtube.com/watch?v=vb7U_9AO7Ww)|Jana Radhakrishnan|
 |[Kubernetes: Changing the Way That we Think and Talk About Computing](https://www.youtube.com/watch?v=DGlQgNmobuc)|Brian Dorsey|
+|[Machine Learning: The Basics](https://www.youtube.com/watch?v=wjTJVhmu1JM)|Ron Bekkerman|
+|[Tiny](https://www.infoq.com/presentations/small-iteration-method-team)|Chad Fowler|
+|[How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)|Josh Bloch|
+|[AI, Deep Learning, and Machine Learning: A Primer](http://a16z.com/2016/06/10/ai-deep-learning-machines/)|	Frank Chen|
 
 #Watched and recomended
 
@@ -66,3 +67,10 @@
 |[Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA)| Martin Fowler| 
 |[How I Finally Stopped Worrying and Learnt to Love Conway’s Law](https://www.youtube.com/watch?v=l1tyfb5we7I)|James Lewis|
 |[Microservices for Mortals](https://vimeo.com/138761064)| Bert Ertman|
+|[Challenges in Implementing Microservices ](https://www.youtube.com/watch?v=yPf5MfOZPY0)|Fred George|
+|[DDD & Microservices: At Last, Some Boundaries!](https://www.youtube.com/watch?v=yPvef9R3k-M)|Eric Evans|
+|[Stroop, Whorf, And Elixir](https://www.youtube.com/watch?v=ZQdLG0biiYA)|Dave Thomas|
+|[Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)|Robert C Martin|
+|[Exercises in Programming Style (skip 15 minutes or so)](http://www.infoq.com/presentations/programming-styles)|Crista Lopes|
+|[Hopelessness and Confidence in Distributed Systems Design]()| Camille Fournier|
+|[Elixir Should Take Over the World]()|	Jessica Kerr|
