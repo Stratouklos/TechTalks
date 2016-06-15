@@ -74,3 +74,8 @@
 |[Exercises in Programming Style (skip 15 minutes or so)](http://www.infoq.com/presentations/programming-styles)|Crista Lopes|
 |[Hopelessness and Confidence in Distributed Systems Design]()| Camille Fournier|
 |[Elixir Should Take Over the World]()|	Jessica Kerr|
+
+#To Watch
+[Erlang vm](https://www.youtube.com/watch?v=ArRr4trTCjQ)
+[Intro to Erlang](https://www.youtube.com/watch?v=0YpCBRJJtPg)
+[Handling millions of users with erlang](https://www.youtube.com/watch?v=m6vuXd3lM8g)
