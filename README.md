@@ -46,6 +46,11 @@
 |[Tiny](https://www.infoq.com/presentations/small-iteration-method-team)|Chad Fowler|
 |[How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)|Josh Bloch|
 |[AI, Deep Learning, and Machine Learning: A Primer](http://a16z.com/2016/06/10/ai-deep-learning-machines/)|	Frank Chen|
+|[Stop Hiring DevOps Experts and Start Growing Them](https://www.youtube.com/watch?v=6m9nCtyn6kE)| Jez Humble|
+|[How do you get an engineering team to eat their vegetables](https://vimeo.com/172711355)| Duretti Hirpa|
+|[Lean Enterprise](https://www.youtube.com/watch?v=TcbmRRy-vno)| Jez Humble|
+|[Docker for Developers](https://www.youtube.com/watch?v=SK0sqfVn7ls)|David Gageot|
+
 
 #Watched and recomended
 
@@ -72,8 +77,12 @@
 |[Stroop, Whorf, And Elixir](https://www.youtube.com/watch?v=ZQdLG0biiYA)|Dave Thomas|
 |[Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)|Robert C Martin|
 |[Exercises in Programming Style (skip 15 minutes or so)](http://www.infoq.com/presentations/programming-styles)|Crista Lopes|
+|[Mocks & Stubs](https://www.youtube.com/watch?v=EaxDl5NPuCA)|	Ken Scambler|
+|[Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw)| Jez Humble|
+|[Stroop, Whorf, And Elixir](https://www.youtube.com/watch?v=ZQdLG0biiYA)|Dave Thomas|
 |[Hopelessness and Confidence in Distributed Systems Design]()| Camille Fournier|
 |[Elixir Should Take Over the World]()|	Jessica Kerr|
+
 
 #To Watch
 |[Erlang vm](https://www.youtube.com/watch?v=ArRr4trTCjQ)|
