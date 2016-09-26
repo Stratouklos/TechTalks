@@ -80,6 +80,7 @@
 |[Mocks & Stubs](https://www.youtube.com/watch?v=EaxDl5NPuCA)|	Ken Scambler|
 |[Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw)| Jez Humble|
 |[Stroop, Whorf, And Elixir](https://www.youtube.com/watch?v=ZQdLG0biiYA)|Dave Thomas|
+|[Rules](https://www.youtube.com/watch?v=npOGOmkxuio)|Sandi Mets|
 |[Hopelessness and Confidence in Distributed Systems Design]()| Camille Fournier|
 |[Elixir Should Take Over the World]()|	Jessica Kerr|
 
