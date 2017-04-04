@@ -4,20 +4,16 @@
 |------|----------|
 |[DevOps Kaizen Practical Steps to Start & Sustain a Transformation](https://www.youtube.com/watch?v=RT542sffJpM)|Damon Edwards|
 |[Achieving Business Impact: Why Agile Doesn’t Scale](https://www.youtube.com/watch?v=1CmCgwd54oc)|Dan North|
-|[1000 Year-old Design Patterns ](http://www.infoq.com/presentations/1000-Year-old-Design-Patterns)|Ulf Wiger|
 |[REST for an Hour](http://www.infoq.com/presentations/rest-introduction)|Lyndsey Padget|
 |[Evolving Java ](http://www.infoq.com/presentations/java8-evolution)|Brian Goetz|
-|[Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)|Pragmatic Dave Thomas|
 |[3 Tricks to Make Your Application More Reliable](https://youtu.be/tPlxCGu_3wA?t=6m26s)|Adib Saikali|
 |[Category Theory](https://www.youtube.com/watch?v=o6L6XeNdd_k)|Tom LaGatta|
 |[Patterns for Docker Success](https://www.youtube.com/watch?v=ZnIiFWD7yUw)|Simon Eskildsen|
-|[Cynefin](https://www.youtube.com/watch?v=2isOLyfYVnw)|Dave Snowden|
 |[DevOps learnings from Air France 447](https://www.youtube.com/watch?v=P8hZOHtrHn0)|Lindsay Holmwood|
 |[Run containers on bare metal already!](https://www.youtube.com/watch?v=coFIEH3vXPw)|Bryan Cantrill|
 |[From REST to CQRS](https://www.youtube.com/watch?v=qDNPQo9UmJA)|Bobby Calderwood|
 |[Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)|Rich Hickey|
 |[Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0)|Guy Steele|
-|[Inventing on Principle](https://vimeo.com/36579366)|Bret Victor|
 |[Credit Card Fraud: The Contactless Generation](https://www.youtube.com/watch?v=HRXb-FZ6WFM)|Kristin Paget|
 |[Applications Through an Attacker’s Lens ](http://www.infoq.com/presentations/security-attacker-mind)|Michael Coates|
 |[System Failure, Human Error: Who's to Blame?](https://vimeo.com/102167635)|Sidney Dekker|
@@ -25,7 +21,6 @@
 |[The Birth and Death of Javascript ](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)|Gary Bernhardt|
 |["Big Data" Agile Analytics](http://www.infoq.com/presentations/big-data-agile-analytics)|Ken Collier|
 |[Big data is better data](https://www.youtube.com/watch?v=8pHzROP1D-w)|Kenneth Cukier|
-|[Ultimate Scala Collections](https://www.youtube.com/watch?v=yzfCTNukfl8)|Martin Odersky|
 |[DevOps Patterns Distilled](https://www.youtube.com/watch?v=9jD200ZxIrQ)|Gene Kim|
 |[Container Hacks and Fun Images](https://www.youtube.com/watch?v=1qlLUf7KtAw)|Jessie Frazelle|
 |[Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0)|Solomon Hykes|
@@ -36,15 +31,13 @@
 |[Tiny](https://www.infoq.com/presentations/small-iteration-method-team)|Chad Fowler|
 |[How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)|Josh Bloch|
 |[AI, Deep Learning, and Machine Learning: A Primer](http://a16z.com/2016/06/10/ai-deep-learning-machines/)|	Frank Chen|
-|[Stop Hiring DevOps Experts and Start Growing Them](https://www.youtube.com/watch?v=6m9nCtyn6kE)| Jez Humble|
 |[How do you get an engineering team to eat their vegetables](https://vimeo.com/172711355)| Duretti Hirpa|
-|[Lean Enterprise](https://www.youtube.com/watch?v=TcbmRRy-vno)| Jez Humble|
 |[Docker for Developers](https://www.youtube.com/watch?v=SK0sqfVn7ls)|David Gageot|
 |[Erlang vm](https://www.youtube.com/watch?v=ArRr4trTCjQ)| - |
 |[Intro to Erlang](https://www.youtube.com/watch?v=0YpCBRJJtPg)| - |
 |[Handling millions of users with erlang](https://www.youtube.com/watch?v=m6vuXd3lM8g)| - |
 |[Statistics for hackers](https://www.youtube.com/watch?v=L5GVOFAYi8k)| - |
-
+|[What’s the worst that can happen?](https://vimeo.com/107609914)|Marc Burgauer|
 
 #Watched and recomended
 
@@ -68,7 +61,6 @@
 |[Microservices for Mortals](https://vimeo.com/138761064)| Bert Ertman|
 |[Challenges in Implementing Microservices ](https://www.youtube.com/watch?v=yPf5MfOZPY0)|Fred George|
 |[DDD & Microservices: At Last, Some Boundaries!](https://www.youtube.com/watch?v=yPvef9R3k-M)|Eric Evans|
-|[Stroop, Whorf, And Elixir](https://www.youtube.com/watch?v=ZQdLG0biiYA)|Dave Thomas|
 |[Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)|Robert C Martin|
 |[Exercises in Programming Style (skip 15 minutes or so)](http://www.infoq.com/presentations/programming-styles)|Crista Lopes|
 |[Mocks & Stubs](https://www.youtube.com/watch?v=EaxDl5NPuCA)|	Ken Scambler|
@@ -87,3 +79,6 @@
 |[Programming is terrible -](https://www.youtube.com/watch?v=csyL9EC0S0c) [slides](https://github.com/tef/emfcamp2012)|Thomas Figg|
 | [The Charming Genious of the Apollo Guidance Computer](https://systemswe.love/videos/the-charming-genius-of-the-apollo-guidance-computer) | Brian Troutwine |
 |[Systems programming as a swiss army knife](https://www.youtube.com/watch?v=HfD9IMZ9rKY)| Julia Evans | 
+|[Adventures in Elm](https://www.youtube.com/watch?v=cgXhMc8M4X4)| Jessica Kerr |
+|[Cynefin](https://www.youtube.com/watch?v=2isOLyfYVnw)|Dave Snowden|
+|[Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)|Pragmatic Dave Thomas|
